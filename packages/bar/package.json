@@ -1,6 +1,6 @@
 {
   "name": "@nighttrax/bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index",
   "types": "dist/index",
   "files": [
@@ -13,7 +13,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@nighttrax/foo": "^1.0.0"
+    "@nighttrax/foo": "^1.0.1"
   },
   "devDependencies": {
     "typescript": "~3.4.5"
